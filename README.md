@@ -19,7 +19,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 git clone <porject-url>
 cd <porject-url>
 ```
-### Use npm intslal to install dependencise
+### Use npm intstall to install dependencise
 ```sh
 npm install
 ```
