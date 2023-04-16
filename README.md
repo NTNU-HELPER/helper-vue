@@ -14,6 +14,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 以下是如何運行此專案
 
+### Clone and move to the porject
+```sh
+git clone <porject-url>
+cd <porject-url>
+```
+### Use npm intslal to install dependencise
 ```sh
 npm install
 ```
@@ -29,3 +35,5 @@ npm run dev
 ```sh
 npm run build
 ```
+## How to Contribute?
+To contribute to this project, you can fork this project, .......
